@@ -1,0 +1,11 @@
+{
+  "sprite": "Plant_Right_Mid.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1390,
+    458,
+    1495,
+    614
+  ]
+}

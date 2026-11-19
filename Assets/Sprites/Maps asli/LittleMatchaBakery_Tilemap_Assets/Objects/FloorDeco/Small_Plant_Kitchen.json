@@ -1,0 +1,11 @@
+{
+  "sprite": "Small_Plant_Kitchen.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1024,
+    239,
+    1085,
+    308
+  ]
+}

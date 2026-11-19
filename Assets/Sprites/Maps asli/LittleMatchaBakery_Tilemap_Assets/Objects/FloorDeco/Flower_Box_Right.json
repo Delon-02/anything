@@ -1,0 +1,11 @@
+{
+  "sprite": "Flower_Box_Right.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1099,
+    825,
+    1252,
+    927
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "sprite": "Hanging_Lamp_Right.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1451,
+    155,
+    1502,
+    242
+  ]
+}

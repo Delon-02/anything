@@ -1,0 +1,11 @@
+{
+  "sprite": "Hanging_Awning.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    85,
+    0,
+    1478,
+    110
+  ]
+}

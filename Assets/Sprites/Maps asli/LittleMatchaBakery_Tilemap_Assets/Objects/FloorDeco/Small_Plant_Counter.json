@@ -1,0 +1,11 @@
+{
+  "sprite": "Small_Plant_Counter.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    281,
+    218,
+    340,
+    306
+  ]
+}

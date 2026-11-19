@@ -1,0 +1,11 @@
+{
+  "sprite": "Entrance_Rug.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    668,
+    865,
+    873,
+    963
+  ]
+}

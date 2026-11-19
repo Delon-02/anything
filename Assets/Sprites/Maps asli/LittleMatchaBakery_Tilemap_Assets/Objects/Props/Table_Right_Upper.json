@@ -1,0 +1,11 @@
+{
+  "sprite": "Table_Right_Upper.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1070,
+    427,
+    1328,
+    598
+  ]
+}

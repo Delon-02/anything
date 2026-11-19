@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3626885327
+    locked: 0
+  - name: Road
+    uniqueID: 3796223323
+    locked: 0
+  - name: World
+    uniqueID: 770302849
+    locked: 0
+  - name: Player
+    uniqueID: 1359049099
+    locked: 0
+  - name: AbovePleyer
+    uniqueID: 3631258207
+    locked: 0
