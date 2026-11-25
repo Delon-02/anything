@@ -1,0 +1,20 @@
+{
+  "sprite": "Middle_Rug.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    557,
+    708,
+    824,
+    796
+  ],
+  "unity_grid_alignment": "32x32 px; transparent padding; artwork centered horizontally and aligned to bottom",
+  "canvas_size_px": [
+    288,
+    96
+  ],
+  "original_artwork_size_px": [
+    261,
+    84
+  ]
+}

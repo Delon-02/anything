@@ -1,0 +1,20 @@
+{
+  "sprite": "Plant_Right_Mid.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    1390,
+    458,
+    1495,
+    614
+  ],
+  "unity_grid_alignment": "32x32 px; transparent padding; artwork centered horizontally and aligned to bottom",
+  "canvas_size_px": [
+    96,
+    160
+  ],
+  "original_artwork_size_px": [
+    86,
+    146
+  ]
+}

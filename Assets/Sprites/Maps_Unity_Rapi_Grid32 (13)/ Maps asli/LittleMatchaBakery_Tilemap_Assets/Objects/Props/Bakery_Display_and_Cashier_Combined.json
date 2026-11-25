@@ -1,0 +1,28 @@
+{
+  "sprite": "Bakery_Display_and_Cashier_Combined.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    338,
+    305,
+    959,
+    487
+  ],
+  "contents": [
+    "food display case",
+    "wooden display counter",
+    "original wooden connecting wing",
+    "cashier desk",
+    "cash register"
+  ],
+  "note": "Single connected sprite; connector uses original wooden wing from source image, not a synthetic patch.",
+  "unity_grid_alignment": "32x32 px; transparent padding; artwork centered horizontally and aligned to bottom",
+  "canvas_size_px": [
+    640,
+    192
+  ],
+  "original_artwork_size_px": [
+    620,
+    180
+  ]
+}

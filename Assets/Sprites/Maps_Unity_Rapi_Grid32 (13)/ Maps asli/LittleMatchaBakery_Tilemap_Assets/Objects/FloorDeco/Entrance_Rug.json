@@ -1,0 +1,20 @@
+{
+  "sprite": "Entrance_Rug.png",
+  "pivot": "Bottom Center",
+  "pixels_per_unit": 32,
+  "source_bbox": [
+    668,
+    865,
+    873,
+    963
+  ],
+  "unity_grid_alignment": "32x32 px; transparent padding; artwork centered horizontally and aligned to bottom",
+  "canvas_size_px": [
+    224,
+    96
+  ],
+  "original_artwork_size_px": [
+    201,
+    93
+  ]
+}

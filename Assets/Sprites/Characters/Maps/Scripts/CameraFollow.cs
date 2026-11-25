@@ -17,6 +17,7 @@ public class CameraFollow : MonoBehaviour
     private Camera cam;
     private Vector3 smoothPosition;
     private Vector3 velocity;
+    private bool initialized;
 
     private void Awake()
     {
@@ -24,21 +25,31 @@ public class CameraFollow : MonoBehaviour
         smoothPosition = transform.position;
     }
 
-    private void Start()
-    {
-        if (target != null)
-        {
-            smoothPosition = ClampToMap(new Vector3(target.position.x, target.position.y, transform.position.z));
-            transform.position = smoothPosition;
-        }
-    }
-
     private void LateUpdate()
     {
-        if (target == null) return;
+        // Cari Player otomatis kalau Target masih kosong
+        if (target == null)
+        {
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player != null)
+            {
+                target = player.transform;
+            }
+            else
+            {
+                return;
+            }
+        }
 
         Vector3 desired = new Vector3(target.position.x, target.position.y, transform.position.z);
         desired = ClampToMap(desired);
+
+        // Frame pertama: langsung loncat ke posisi Player
+        if (!initialized)
+        {
+            smoothPosition = desired;
+            initialized = true;
+        }
 
         smoothPosition = Vector3.SmoothDamp(smoothPosition, desired, ref velocity, smoothTime);
 
