@@ -1,0 +1,257 @@
+{
+  "wall_left_shelf": {
+    "file": "Sprites/wall_left_shelf.png",
+    "original_canvas_position_top_left_px": [
+      168,
+      74
+    ],
+    "size_px": [
+      385,
+      183
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "wall_center_shelf": {
+    "file": "Sprites/wall_center_shelf.png",
+    "original_canvas_position_top_left_px": [
+      623,
+      107
+    ],
+    "size_px": [
+      290,
+      205
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "wall_right_shelf": {
+    "file": "Sprites/wall_right_shelf.png",
+    "original_canvas_position_top_left_px": [
+      983,
+      74
+    ],
+    "size_px": [
+      185,
+      224
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "mixer_utensils_station": {
+    "file": "Sprites/mixer_utensils_station.png",
+    "original_canvas_position_top_left_px": [
+      1174,
+      84
+    ],
+    "size_px": [
+      194,
+      228
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "cashier_counter": {
+    "file": "Sprites/cashier_counter.png",
+    "original_canvas_position_top_left_px": [
+      158,
+      238
+    ],
+    "size_px": [
+      393,
+      130
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "left_ingredient_display": {
+    "file": "Sprites/left_ingredient_display.png",
+    "original_canvas_position_top_left_px": [
+      65,
+      407
+    ],
+    "size_px": [
+      111,
+      235
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "middle_shelf_left": {
+    "file": "Sprites/middle_shelf_left.png",
+    "original_canvas_position_top_left_px": [
+      307,
+      400
+    ],
+    "size_px": [
+      261,
+      240
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "middle_shelf_center": {
+    "file": "Sprites/middle_shelf_center.png",
+    "original_canvas_position_top_left_px": [
+      639,
+      398
+    ],
+    "size_px": [
+      262,
+      242
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "middle_shelf_right": {
+    "file": "Sprites/middle_shelf_right.png",
+    "original_canvas_position_top_left_px": [
+      967,
+      399
+    ],
+    "size_px": [
+      271,
+      241
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "right_sack_display": {
+    "file": "Sprites/right_sack_display.png",
+    "original_canvas_position_top_left_px": [
+      1367,
+      376
+    ],
+    "size_px": [
+      109,
+      295
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "bottom_left_shelf": {
+    "file": "Sprites/bottom_left_shelf.png",
+    "original_canvas_position_top_left_px": [
+      157,
+      695
+    ],
+    "size_px": [
+      391,
+      182
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "bottom_right_equipment_table": {
+    "file": "Sprites/bottom_right_equipment_table.png",
+    "original_canvas_position_top_left_px": [
+      987,
+      697
+    ],
+    "size_px": [
+      403,
+      180
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "entrance_mat_pillars": {
+    "file": "Sprites/entrance_mat_pillars.png",
+    "original_canvas_position_top_left_px": [
+      600,
+      827
+    ],
+    "size_px": [
+      337,
+      187
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "bakery_sign": {
+    "file": "Sprites/bakery_sign.png",
+    "original_canvas_position_top_left_px": [
+      634,
+      14
+    ],
+    "size_px": [
+      269,
+      93
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "left_blackboard": {
+    "file": "Sprites/left_blackboard.png",
+    "original_canvas_position_top_left_px": [
+      68,
+      149
+    ],
+    "size_px": [
+      92,
+      148
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "right_tray_rack": {
+    "file": "Sprites/right_tray_rack.png",
+    "original_canvas_position_top_left_px": [
+      1367,
+      99
+    ],
+    "size_px": [
+      106,
+      210
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  },
+  "ceiling_lamps": {
+    "file": "Sprites/ceiling_lamps.png",
+    "original_canvas_position_top_left_px": [
+      547,
+      23
+    ],
+    "size_px": [
+      436,
+      90
+    ],
+    "original_canvas_size_px": [
+      1536,
+      1024
+    ]
+  }
+}
